@@ -1,5 +1,5 @@
 # Quotes
-A collection of quotes.
+A collection of quotes that I like. Feel free to share your own.
 
 ## Design
 “Black the beer goggles of color”
