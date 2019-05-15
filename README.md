@@ -20,6 +20,5 @@ Gradually smashing the process against the rocks until the waterfall"
 - Steve Jobs
 “Every man is said to have his peculiar ambition. I have no other so great as that of being truly esteemed of my fellow men, by rendering myself worthy of their esteem.”
 - Lincoln
-“…more than willing to die but that he had “done nothing to make any human being remember that he had lived.”
-- Lincoln
+
 
