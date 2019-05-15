@@ -21,4 +21,10 @@ Gradually smashing the process against the rocks until the waterfall"
 “Every man is said to have his peculiar ambition. I have no other so great as that of being truly esteemed of my fellow men, by rendering myself worthy of their esteem.”
 - Lincoln
 
+## Movie Quotes
+“Begin each day like it was on purpose.”
+- Hitch
+“Soon we must all face the choice between what is right, and what is easy.” 
+- Harry Potter and the Goblet of Fire
+
 
